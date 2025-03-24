@@ -1,0 +1,51 @@
+Revenue Insights Dashboard - Power BI
+
+📌 Overview
+
+This Power BI dashboard provides data-driven insights into revenue trends in the hospitality industry. It enables businesses to track occupancy rates, analyze revenue performance, monitor customer satisfaction, and assess booking patterns across different channels and time periods.
+
+📊 Key Features
+
+Total Revenue & Trends: Tracks revenue performance across different time periods.
+
+Occupancy Rate Analysis: Helps in optimizing pricing and resource allocation.
+
+Customer Satisfaction: Monitors guest ratings and reviews.
+
+Booking Performance by Platform: Compares booking percentages across direct, OTA, and corporate channels.
+
+Day-Wise Booking Trends: Analyzes booking patterns on weekdays vs. weekends.
+
+📂 Dataset
+
+Contains detailed hospitality industry data, including revenue, bookings, occupancy rates, and customer ratings.
+
+Data cleaned, transformed, and modeled for seamless Power BI reporting.
+
+📈 Dashboard Insights & Improvements
+
+Enhanced Revenue Monitoring: Provides clear trends and insights to boost revenue strategies.
+
+Improved Customer Understanding: Identifies key factors affecting occupancy and ratings.
+
+User-Friendly Visuals: Utilizes Power BI’s interactive filters, drill-throughs, and charts.
+
+Better Decision-Making: Supports pricing, marketing, and operational strategy optimization.
+
+🛠️ Tech Stack
+
+Tools Used: Power BI, DAX, SQL
+
+Data Modeling: Optimized relational model for performance
+
+ETL Processes: Data transformation for structured analysis
+
+🚀 Getting Started
+
+Download the .pbix file from this repository.
+
+Open it in Power BI Desktop.
+
+Connect to your dataset or use the provided sample data.
+
+Explore the dashboard using filters, slicers, and drill-through options.
