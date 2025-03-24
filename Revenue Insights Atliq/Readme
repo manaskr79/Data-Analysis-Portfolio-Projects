@@ -1,0 +1,61 @@
+Road Accidents Analytics Dashboard - Power BI
+
+📌 Overview
+
+This Power BI dashboard provides an in-depth analysis of road accident trends and casualties, enabling data-driven decision-making for improved road safety. It visualizes key metrics such as total accidents, casualty trends, accident severity, location-based insights, and year-over-year (YoY) comparisons.
+
+📊 Key Features
+
+Total Casualties & Accidents: Yearly trends with YoY comparisons.
+
+Casualties by Accident Severity: Breakdown of minor, serious, and fatal accidents.
+
+Monthly Trend Analysis: Casualty trends across months to identify seasonal patterns.
+
+Casualties by Area & Time: Segmentation by location and time of the day (day/night).
+
+Accidents by Road Type: Analysis of accident distribution across different road types.
+
+Location-Based Analysis: Accident and casualty distribution by specific locations.
+
+📂 Dataset
+
+Contains ~300,000 records with various columns such as accident severity, location, date/time, road type, and casualty count.
+
+Cleaned, transformed, and modeled for optimized Power BI performance.
+
+📈 Dashboard Insights & Improvements
+
+Enhanced Data Visualization: Interactive visuals, heatmaps, and comparative charts.
+
+Year-over-Year Comparison: Quick assessment of accident trends.
+
+User-Friendly Interface: Filters, slicers, and drill-through reports for deeper analysis.
+
+Better Decision-Making: Identifies high-risk areas and peak accident times for safety interventions.
+
+🛠️ Tech Stack
+
+Tools Used: Power BI, DAX, SQL
+
+Data Modeling: Fact and dimension tables optimized for performance
+
+ETL Processes: Data cleaning and transformation for accurate reporting
+
+🚀 Getting Started
+
+Download the .pbix file from this repository.
+
+Open it in Power BI Desktop.
+
+Connect to your dataset or use the provided sample data.
+
+Explore the dashboard using filters, slicers, and drill-through options.
+
+📌 Future Enhancements
+
+Integration with real-time accident data sources.
+
+Predictive analytics using machine learning.
+
+Automated report scheduling and alerts.
